@@ -1,0 +1,3 @@
+[submodule "competition/lit-llama"]
+	path = competition/lit-llama
+	url = git@github.com:Lightning-AI/lit-llama.git
